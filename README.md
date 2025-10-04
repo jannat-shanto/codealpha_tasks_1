@@ -1,5 +1,5 @@
 # codealpha_tasks_1
-# 🍔 Food App UI/UX Design
+# 🍔 Food App UI/UX Design wireframe
 
 A modern food delivery / ordering mobile application designed in **Figma**.  
 This project showcases multiple screens including login, profile, search filters, cart, and more.
@@ -19,9 +19,6 @@ This project showcases multiple screens including login, profile, search filters
 | **Login** | ![Login](./screenshots/Login.png) |
 | **Home** | ![Home](./screenshots/Home.png) |
 | **Profile** | ![Profile](./screenshots/profile.png) |
-| **Order Tracking** | ![Order Tracking](./screenshots/order-tracking.png) |
-| **Checkout Screen** | ![Checkout](./screenshots/checkout-screen.png) |
-| **Cart** | ![Cart](./screenshots/cart.png) |
 | **Restaurant Detail** | ![Restaurant Detail](./screenshots/restaurant-detail.png) |
 | **Mexican Search** | ![Mexican Search](./screenshots/mexican-search.png) |
 | **Italian Search** | ![Italian Search](./screenshots/italian-search.png) |
@@ -29,6 +26,9 @@ This project showcases multiple screens including login, profile, search filters
 | **Drinks Search** | ![Drinks Search](./screenshots/drinks-search.png) |
 | **Burger Search** | ![Search Burger](./screenshots/search-burger.png) |
 | **Pizza Search** | ![Search Pizza](./screenshots/search-pizza.png) |
+| **Order Tracking** | ![Order Tracking](./screenshots/order-tracking.png) |
+| **Checkout Screen** | ![Checkout](./screenshots/checkout-screen.png) |
+| **Cart** | ![Cart](./screenshots/cart.png) |
 
 
 
