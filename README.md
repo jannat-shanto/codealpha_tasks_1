@@ -23,10 +23,9 @@ This project showcases multiple screens including login, profile, search filters
 | **Checkout Screen** | ![Checkout](./screenshots/checkout-screen.png) |
 | **Cart** | ![Cart](./screenshots/cart.png) |
 | **Restaurant Detail** | ![Restaurant Detail](./screenshots/restaurant-detail.png) |
-| **Tabs** | ![Tabs](./screenshots/tabs.png) |
 | **Mexican Search** | ![Mexican Search](./screenshots/mexican-search.png) |
 | **Italian Search** | ![Italian Search](./screenshots/italian-search.png) |
-| **Asian Search** | ![Asian Search](./screenshots/asain-search.png) |
+| **Asian Search** | ![Asian Search](./screenshots/Asain-search.png) |
 | **Drinks Search** | ![Drinks Search](./screenshots/drinks-search.png) |
 | **Burger Search** | ![Search Burger](./screenshots/search-burger.png) |
 | **Pizza Search** | ![Search Pizza](./screenshots/search-pizza.png) |
